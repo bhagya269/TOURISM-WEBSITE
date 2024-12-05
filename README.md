@@ -10,7 +10,7 @@ ADVENTURE - "Where Every Journey Begins"
  -  Pure HTML, CSS, JavaScript used
  
  ## 🔗 To see the project
-[Tourism website]
+[Tourism website] https://tourismwebsite-bhagyasingh.netlify.app/
 
 
 
